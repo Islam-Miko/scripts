@@ -4,7 +4,7 @@ importlib-metadata==6.6.0
 importlib-resources==5.12.0
 Mako==1.2.4
 MarkupSafe==2.1.2
-psycopg2==2.9.6
+psycopg2-binary==2.9.6
 python-decouple==3.8
 SQLAlchemy==2.0.13
 typing-extensions==4.5.0
